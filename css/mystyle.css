@@ -1,0 +1,12 @@
+.center {
+    text-align: center;
+  }
+
+.bullet {
+    text-align: left;
+    font-weight: bold;
+}
+
+.background{
+    background-color:azure;
+}
